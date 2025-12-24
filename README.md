@@ -59,6 +59,15 @@ Sempre utilize o julgamento clínico e exames complementares quando aplicável.
 
 O aplicativo funciona diretamente no navegador, sem necessidade de instalação.
 
+## 📊 Dashboard Power BI
+
+O painel visual foi desenvolvido no Power BI com o objetivo de explorar os principais fatores associados à obesidade na amostra analisada.
+
+🔗 **Acesse o dashboard interativo:**
+👉 https://app.powerbi.com/view?r=eyJrIjoiZDE1Mjg0ZWYtZDM0MS00ZmI2LWI0ZGYtMjM4MjE1Y2I0ODNmIiwidCI6ImVmZjFmNzliLTEyYzgtNGM4ZS1iYzJmLWJjZjZlZTNlODlkZCJ9
+
+> O relatório está disponível publicamente para fins acadêmicos e de avaliação.
+
 ---
 
 ## 🛠️ Aspectos Técnicos (Resumo)
